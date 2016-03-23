@@ -1,0 +1,28 @@
+name: Carolson
+favicon: null
+layout_spectrum: 0.20278080622665584
+typography_spectrum: 0.06148327887058258
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.49803019827231765
+  lightness: 0.2518436498939991
+  saturation: 0.6509274721611291
+  rhythmicContrast: 0.24131734878756106
+purpose: []
